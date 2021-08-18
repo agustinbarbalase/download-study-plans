@@ -17,6 +17,7 @@ This application has been developed with:
 
 ```shell
 git clone https://github.com/agustinbarbalase/download-study-plans.git
+npm install
 npm start
 ```
 
