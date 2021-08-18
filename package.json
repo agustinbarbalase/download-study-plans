@@ -1,0 +1,16 @@
+{
+  "name": "download-study-plans",
+  "version": "1.0.0",
+  "description": "A simple code to download all the study plans of all your subjects",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./src/index.js"
+  },
+  "keywords": [],
+  "author": "Agustín Barbalase",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "0.21.1",
+    "node-xlsx": "0.17.1"
+  }
+}
