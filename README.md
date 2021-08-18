@@ -4,7 +4,7 @@
 
 I am an engineering student and I wanted to download all the study plans of all my subjects, so I made a code for an automatic download :)
 
-I study at [FIUBA](http://www.fi.uba.ar/), so if you are also a FIUBA student, use this code to download all the study plans for all your subjects. Check the [Installation instructions](#instructions-installation) section.
+I study at [FIUBA](http://www.fi.uba.ar/), so if you are also a FIUBA student, use this code to download all the study plans for all your subjects. Check the [Installation instructions](#installation-instructions) section.
 
 ## Resources
 
